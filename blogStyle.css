@@ -1,0 +1,68 @@
+header, footer {
+  width: 100%;
+  background-color: blue;
+}
+/*header and footer with comma means that style will apply to both
+/**/
+nav ul {
+  padding: 50px;
+}
+/**padding is inside margin is outside
+/**/
+nav li {
+  display: inline-block;
+  margin-right: 25px;
+}
+nav li a {
+  text-decoration: none;
+  color: white;
+}
+
+nav li:hover {
+  background-color: white;
+  color: cyan;
+}
+/** display: inline block will line up elements side by side/
+/**/
+section, aside {
+  display: inline-block;
+}
+
+aside {
+  width: 14%;
+}
+
+section {
+  width: 70%;
+}
+.murray-img {
+  width: 48%;
+  margin: 0;
+  display: inline;
+}
+
+.murray-img img {
+  width: 400px;
+  height: auto;
+}
+.left-aside {
+  position: relative;
+  top: 15px;
+  padding-left: 10px;
+}
+
+.first-img {
+  width: 90%;
+}
+
+.first-img img {
+  width: 50px;
+  margin-left: 5px;
+}
+.nick-img {
+  width: 90%;
+}
+
+.nick-img img {
+  width: 50px;
+}

@@ -1,0 +1,17 @@
+nav {
+  background-color: blue;
+  width: 50%;
+  margin: 0 auto;
+}
+nav li {
+  color: white;
+  display: inline-block;
+
+}
+.box {
+  border: 42px solid black;
+  width:200px;
+  height:200px;
+  margin:5px;
+  float: left;
+}

@@ -1,0 +1,39 @@
+li {
+  width: 25%;
+  display: inline-block;
+}
+.octocat {
+
+  position: relative;
+  padding: 15px;
+}
+.octocat img {
+  width: 300px;
+  border: 1px solid gray;
+
+}
+.image-footer {
+  height: 50px;
+}
+
+.image-caption {
+  display: inline-block;
+  padding: 30px;
+}
+.authors img{
+
+  width: 25px;
+}
+
+ul li .authors {
+  display: inline-block;
+
+}
+.image-caption img{
+  display: inline-block;
+
+}
+.authors li img{
+  display: inline-block;
+
+}

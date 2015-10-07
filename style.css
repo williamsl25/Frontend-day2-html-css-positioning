@@ -1,0 +1,23 @@
+#square {
+  background-color: darkblue;
+  color: white;
+}
+.box {
+  width: 500px;
+  height: 100 px;
+  border: 10px dotted red;
+  background-color: pink;
+  margin: 75px;
+}
+.box p {
+  background-color: blue;
+}
+#rect {
+  background-color: green;
+}
+.box2 {
+  padding: 50px, 25px;
+  border: 10px dotted blue;
+  margin: 50px;
+  background-color: purple;
+}
